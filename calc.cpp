@@ -15,6 +15,8 @@ int main(void) {
 
 	/*Comments entered from mySecondBranch - this branch is based off of myFirstBranch*/
 
+	/*Added from mySecondBranch after rebase*/
+
      return(0);
 
 }
